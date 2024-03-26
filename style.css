@@ -1,0 +1,30 @@
+.h1 {
+font-family: "Noto Sans", sans-serif;
+display: flex;
+justify-content: center;
+}
+
+.h2{
+font-family: "Noto Sans", sans-serif;
+display: flex;
+justify-content: center;
+}
+
+
+
+
+@media (max-width: 403px) {
+.h1 {
+display: block;
+text-align: center;
+}
+}
+
+
+@media (max-width: 182px) {
+.h2 {
+display: block;
+text-align: center;
+}
+}
+
